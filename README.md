@@ -1,2 +1,6 @@
 # DiffEq
-Numerical methods for solving differential equations
+How to solve differential equations using numerical methods?
+
+![](graphesdesfonctions.png?raw=true "graphesdesfonctions")
+
+![](grapheserreursfonctions.png?raw=true "grapheserreursfonctions")
